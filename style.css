@@ -40,8 +40,8 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+    background-color: #lightpink; /* Light Pink */
+    color: #lightpink;
 }
 
 .card {
@@ -59,8 +59,8 @@ a {
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
-    color: #fff;
+    background-color: #hotpink; /* Hot Pink */
+    color: #hotpink;
 }
 
 .container-fluid {
