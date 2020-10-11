@@ -40,8 +40,8 @@ a {
 }
 
 .bg-2 {
-    background-color: #lightpink; /* Light Pink */
-    color: #lightpink;
+    background-color: ##ffcccc; /* Light Pink */
+    color: #000000;
 }
 
 .card {
